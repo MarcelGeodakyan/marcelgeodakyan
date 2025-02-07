@@ -1,6 +1,5 @@
 # Hello World!, I'm Marcel, a German Web Developer 👋🏼:
-🔭 I’m currently working on SocialFlow
-👨🏼‍💻 working as a web developer since 2023
+🔭 I’m currently working on SocialFlow<br>👨🏼‍💻 working as a web developer since 2023
 
 
 # 💻 Tech Stack:
